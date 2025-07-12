@@ -124,17 +124,16 @@ The static HTML/CSS/JavaScript frontend includes:
 - Upload progress indicator
 - Animated processing progress
 - Display of resized image and download link
-- 
 ## 📁 Folder Structure
 project-root/  
 ├── Webpage/
 │├── index.html  
 ├── lambda/  
 │ ├── Generate Presigned URL
-│		│	└── generate_presigned_url.py  
+│	│	└── generate_presigned_url.py  
 │ └── Resize Image
-│		│	├── resize_image.py
-│		│	└── Dockerfile
+│	│	├── resize_image.py
+│	│	└── Dockerfile
 └── README.md  
 
 ## 🛡️ Security
