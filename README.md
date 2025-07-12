@@ -1,3 +1,4 @@
+
 # Serverless Image Editor
 
 This project is a **serverless image resizing web application** developed by **Karim Aql** as part of the **Manara Solution Architect course**.
@@ -59,7 +60,9 @@ The static HTML/CSS/JavaScript frontend includes:
 - Presigned URLs expire after 5 minutes.
 - CORS is restricted to allow only necessary operations.
 
-
+## 🌐 Live Demo
+👉 Try it here: 
+- http://manara-project-main-bucket.s3-website-us-east-1.amazonaws.com/#
 
 
 
