@@ -50,16 +50,17 @@ The static HTML/CSS/JavaScript frontend includes:
 - Display of resized image and download link
   
 ## 📁 Folder Structure
-project-root/  
+project-root/
 ├── Webpage/
-│├── index.html  
-├── lambda/  
-│ ├── Generate Presigned URL
-│		│	└── generate_presigned_url.py  
-│ └── Resize Image
-│		│	├── resize_image.py
-│		│	└── Dockerfile
-└── README.md  
+│   └── index.html
+├── lambda/
+│   ├── Generate Presigned URL/
+│   │   └── generate_presigned_url.py
+│   └── Resize Image/
+│       ├── resize_image.py
+│       └── Dockerfile
+└── README.md
+
 
 ## 🛡️ Security
 
