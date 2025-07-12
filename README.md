@@ -48,7 +48,7 @@ The static HTML/CSS/JavaScript frontend includes:
 - Upload progress indicator
 - Animated processing progress
 - Display of resized image and download link
-- 
+  
 ## 📁 Folder Structure
 project-root/  
 ├── Webpage/
